@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="tool-convert-mhtml-to-md" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="tool-convert-mhtml-to-md" project-jdk-type="Python SDK" />
+</project>
